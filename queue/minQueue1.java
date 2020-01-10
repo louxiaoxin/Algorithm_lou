@@ -1,4 +1,4 @@
-package queue;
+package Algorithm_lou.queue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

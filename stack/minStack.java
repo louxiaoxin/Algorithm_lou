@@ -1,4 +1,4 @@
-package stack;
+package Algorithm_lou.stack;
 
 import javafx.util.Pair;
 

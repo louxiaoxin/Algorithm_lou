@@ -1,4 +1,4 @@
-package graph;
+package Algorithm_lou.graph;
 
 import java.util.ArrayList;
 import java.util.Arrays;

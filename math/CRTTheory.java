@@ -1,4 +1,4 @@
-package math;
+package Algorithm_lou.math;
 
 /**
  * 中国剩余定理

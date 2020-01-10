@@ -1,4 +1,4 @@
-package string;
+package Algorithm_lou.string;
 
 import java.util.Arrays;
 

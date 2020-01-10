@@ -1,4 +1,4 @@
-package queue;
+package Algorithm_lou.queue;
 
 import javafx.util.Pair;
 

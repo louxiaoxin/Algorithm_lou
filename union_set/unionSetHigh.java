@@ -1,4 +1,4 @@
-package union_set;
+package Algorithm_lou.union_set;
 
 /**
  * 并查集：可用于病毒感染等问题，其中kruskal算法中也用到并查集判断环的生成

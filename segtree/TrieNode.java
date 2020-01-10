@@ -1,4 +1,4 @@
-package segtree;
+package Algorithm_lou.segtree;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package segtree;
+package Algorithm_lou.segtree;
 
 public class TrieArray {
     int max = 50500;

@@ -1,4 +1,4 @@
-package graph;
+package Algorithm_lou.graph;
 
 public class Edge implements Comparable<Edge> {
     int to, cost;

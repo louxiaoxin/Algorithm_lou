@@ -1,3 +1,5 @@
+package Algorithm_lou;
+
 class Solution {
     class TrieNode{
         private TrieNode[] children=new TrieNode[2];

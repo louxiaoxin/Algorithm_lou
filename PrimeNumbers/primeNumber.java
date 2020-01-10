@@ -1,4 +1,4 @@
-package PrimeNumbers;
+package Algorithm_lou.PrimeNumbers;
 
 import java.util.ArrayList;
 import java.util.Arrays;

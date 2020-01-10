@@ -1,4 +1,4 @@
-package math;
+package Algorithm_lou.math;
 
 public class binaryExponentiation {
     /**

@@ -1,4 +1,4 @@
-package math;
+package Algorithm_lou.math;
 
 /**
  * 大数操作：分别有大数乘法，大数加法， 大数阶乘以及大数阶乘的位数

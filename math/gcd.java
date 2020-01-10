@@ -1,4 +1,4 @@
-package math;
+package Algorithm_lou.math;
 
 public class gcd {
     public static int gcd(int a, int b) {

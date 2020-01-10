@@ -1,4 +1,4 @@
-package segtree;
+package Algorithm_lou.segtree;
 
 /**
  * 指针形式的前缀树
