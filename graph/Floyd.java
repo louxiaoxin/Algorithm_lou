@@ -2,6 +2,7 @@ package Algorithm_lou.graph;
 
 import java.util.Arrays;
 
+//图论中的多源最短路径
 public class Floyd {
     static int n;
     static int[][] adjMatrix;
