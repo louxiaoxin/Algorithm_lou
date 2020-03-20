@@ -50,10 +50,7 @@ public class NumArray {
     }
 
     public static void main(String[] args) {
-        int[] nums = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 1, 0, 2, 5, 10, 0, 5, 4, 8, 6, 145, 15};
-        NumArray numArray = new NumArray(nums);
-        System.out.println(Arrays.toString(numArray.data));
-        System.out.println(Arrays.toString(numArray.sums));
-        System.out.println(numArray.sumRange(1, 5));
+        String str="Intelligent Connected Vehicle Queue Control and State Estimation under Cyber Attack";
+        System.out.println(str.toUpperCase());
     }
 }

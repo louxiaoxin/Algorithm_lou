@@ -1,7 +1,5 @@
 package Algorithm_lou.math;
 
-import java.util.Arrays;
-
 public class ExtendedEuclideanAlgorithm {
     public static int gcd(int a, int b) {
         if (a == 0) {
@@ -36,6 +34,6 @@ public class ExtendedEuclideanAlgorithm {
     }
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(modInv(11)));
+        System.out.println(Integer.toBinaryString(60000).length());
     }
 }

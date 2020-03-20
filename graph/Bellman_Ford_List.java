@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 基于邻接表实现BellmanFord算法
- * 可用于判断负环，即当第n论后还存在松弛，即有负环
+ * 可用于判断负环，即当第n轮后还存在松弛，即有负环
  */
 public class Bellman_Ford_List {
     static List<List<Edge>> e = new ArrayList<>();

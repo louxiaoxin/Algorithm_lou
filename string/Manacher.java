@@ -46,7 +46,7 @@ public class Manacher {
 
     public static void main(String[] args) {
         Manacher manacher = new Manacher();
-        System.out.println(manacher.manacher("abavcbahfioahfeiowabgoidahgioawberfiudshagviaoaivnefoawhguiadhfiwebgiudashvbiabefihaiofgaebcf"));
+        System.out.println(manacher.manacher("aa"));
         System.out.println(Arrays.toString(manacher.s_new));
         System.out.println(Arrays.toString(manacher.p));
     }

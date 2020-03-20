@@ -46,6 +46,7 @@ public class Bellman_Ford_Matrix {
         adjMatrix[3][4] = 9;
         adjMatrix[4][0] = 2;
         adjMatrix[4][2] = 7;
+        StringBuilder sb = new StringBuilder();
         System.out.println(Arrays.toString(BellmanFord(0)));
         System.out.println(Arrays.toString(path));
     }
